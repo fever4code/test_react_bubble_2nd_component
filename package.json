@@ -1,0 +1,25 @@
+{
+  "name": "test_react_bubble_2nd_component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "like_button_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fever4code/test_react_bubble_2nd_component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fever4code/test_react_bubble_2nd_component/issues"
+  },
+  "homepage": "https://github.com/fever4code/test_react_bubble_2nd_component#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "terser": "^5.13.1"
+  }
+}
